@@ -1,0 +1,18 @@
+body{
+    background-image: -webkit-radial-gradient();
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(49, 97, 93);
+}
+.services{
+    padding: 50px;
+    text-align: center;
+    background-color: #474e6d;
+    color: white;
+}
+.list{
+    text-align: left;
+  display: flex;
+  justify-content: center;
+}
